@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio on My New Hugo Site</title>
-    <link>https://yanliangg.github.io/portfolio/</link>
+    <link>http://localhost:1313/portfolio/</link>
     <description>Recent content in Portfolio on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://yanliangg.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project1</title>
-      <link>https://yanliangg.github.io/portfolio/project1/</link>
+      <link>http://localhost:1313/portfolio/project1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yanliangg.github.io/portfolio/project1/</guid>
+      <guid>http://localhost:1313/portfolio/project1/</guid>
       
         <description>This is proj1</description>
       
@@ -19,10 +19,10 @@
     
     <item>
       <title>Project1</title>
-      <link>https://yanliangg.github.io/portfolio/project2/</link>
+      <link>http://localhost:1313/portfolio/project2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yanliangg.github.io/portfolio/project2/</guid>
+      <guid>http://localhost:1313/portfolio/project2/</guid>
       
         <description>This is proj1</description>
       
@@ -30,10 +30,10 @@
     
     <item>
       <title>Project1</title>
-      <link>https://yanliangg.github.io/portfolio/project3/</link>
+      <link>http://localhost:1313/portfolio/project3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yanliangg.github.io/portfolio/project3/</guid>
+      <guid>http://localhost:1313/portfolio/project3/</guid>
       
         <description>This is proj1</description>
       

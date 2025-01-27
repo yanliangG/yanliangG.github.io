@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://yanliangg.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yanliangg.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Awards</title>
-      <link>https://yanliangg.github.io/awards/</link>
+      <link>http://localhost:1313/awards/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://yanliangg.github.io/awards/</guid>
+      <guid>http://localhost:1313/awards/</guid>
       
         <description>Hugo Awards, an annual literary award for the best science fiction or fantasy works</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Certifications</title>
-      <link>https://yanliangg.github.io/certifications/</link>
+      <link>http://localhost:1313/certifications/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://yanliangg.github.io/certifications/</guid>
+      <guid>http://localhost:1313/certifications/</guid>
       
         <description>Hugo Certifications</description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>The Notice Shortcode</title>
-      <link>https://yanliangg.github.io/posts/notice-shortcode/</link>
+      <link>http://localhost:1313/posts/notice-shortcode/</link>
       <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
       
-      <guid>https://yanliangg.github.io/posts/notice-shortcode/</guid>
+      <guid>http://localhost:1313/posts/notice-shortcode/</guid>
       
         <description>&lt;p&gt;The notice shortcode supports three different types of disclaimers. These are as following:&lt;/p&gt;</description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title>Series Part 2</title>
-      <link>https://yanliangg.github.io/posts/series-part-2/</link>
+      <link>http://localhost:1313/posts/series-part-2/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://yanliangg.github.io/posts/series-part-2/</guid>
+      <guid>http://localhost:1313/posts/series-part-2/</guid>
       
         <description>A brief guide to how to setup series part 2</description>
       
@@ -53,10 +53,10 @@
     
     <item>
       <title>Series Part 1</title>
-      <link>https://yanliangg.github.io/posts/series-part-1/</link>
+      <link>http://localhost:1313/posts/series-part-1/</link>
       <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://yanliangg.github.io/posts/series-part-1/</guid>
+      <guid>http://localhost:1313/posts/series-part-1/</guid>
       
         <description>A brief guide to how to setup series part 1</description>
       
@@ -64,10 +64,10 @@
     
     <item>
       <title>Redirect</title>
-      <link>https://yanliangg.github.io/posts/redirect/</link>
+      <link>http://localhost:1313/posts/redirect/</link>
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://yanliangg.github.io/posts/redirect/</guid>
+      <guid>http://localhost:1313/posts/redirect/</guid>
       
         <description>Usage of redirectUrl</description>
       
@@ -75,10 +75,10 @@
     
     <item>
       <title>The Figure Shortcode</title>
-      <link>https://yanliangg.github.io/posts/figure-shortcode/</link>
+      <link>http://localhost:1313/posts/figure-shortcode/</link>
       <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
       
-      <guid>https://yanliangg.github.io/posts/figure-shortcode/</guid>
+      <guid>http://localhost:1313/posts/figure-shortcode/</guid>
       
         <description>&lt;p&gt;Hugo has &lt;code&gt;figure&lt;/code&gt; shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images. Documentations can be found here:&lt;/p&gt;</description>
       
@@ -86,10 +86,10 @@
     
     <item>
       <title></title>
-      <link>https://yanliangg.github.io/archives/</link>
+      <link>http://localhost:1313/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yanliangg.github.io/archives/</guid>
+      <guid>http://localhost:1313/archives/</guid>
       
         <description></description>
       
@@ -97,10 +97,10 @@
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://yanliangg.github.io/posts/markdown-syntax/</link>
+      <link>http://localhost:1313/posts/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yanliangg.github.io/posts/markdown-syntax/</guid>
+      <guid>http://localhost:1313/posts/markdown-syntax/</guid>
       
         <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
       
@@ -108,10 +108,10 @@
     
     <item>
       <title>Rich Content</title>
-      <link>https://yanliangg.github.io/posts/rich-content/</link>
+      <link>http://localhost:1313/posts/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yanliangg.github.io/posts/rich-content/</guid>
+      <guid>http://localhost:1313/posts/rich-content/</guid>
       
         <description>A brief description of Hugo Shortcodes</description>
       
@@ -119,10 +119,10 @@
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://yanliangg.github.io/posts/placeholder-text/</link>
+      <link>http://localhost:1313/posts/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yanliangg.github.io/posts/placeholder-text/</guid>
+      <guid>http://localhost:1313/posts/placeholder-text/</guid>
       
         <description>Lorem Ipsum Dolor Si Amet</description>
       
@@ -130,10 +130,10 @@
     
     <item>
       <title>Contact</title>
-      <link>https://yanliangg.github.io/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yanliangg.github.io/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       
         <description>Contact Page</description>
       
@@ -141,10 +141,10 @@
     
     <item>
       <title>Math Typesetting</title>
-      <link>https://yanliangg.github.io/posts/math-typesetting/</link>
+      <link>http://localhost:1313/posts/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yanliangg.github.io/posts/math-typesetting/</guid>
+      <guid>http://localhost:1313/posts/math-typesetting/</guid>
       
         <description>A brief guide to setup KaTeX</description>
       
@@ -152,10 +152,10 @@
     
     <item>
       <title>Emoji Support</title>
-      <link>https://yanliangg.github.io/posts/emoji-support/</link>
+      <link>http://localhost:1313/posts/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yanliangg.github.io/posts/emoji-support/</guid>
+      <guid>http://localhost:1313/posts/emoji-support/</guid>
       
         <description>Guide to emoji usage in Hugo</description>
       
@@ -163,10 +163,10 @@
     
     <item>
       <title>Guide to Thumbnails in Hugo</title>
-      <link>https://yanliangg.github.io/posts/image-test/</link>
+      <link>http://localhost:1313/posts/image-test/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yanliangg.github.io/posts/image-test/</guid>
+      <guid>http://localhost:1313/posts/image-test/</guid>
       
         <description>Guide to Thumbnails in Hugo</description>
       
@@ -174,10 +174,10 @@
     
     <item>
       <title>About</title>
-      <link>https://yanliangg.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yanliangg.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       
         <description>Hugo, the world&#39;s fastest framework for building websites</description>
       
@@ -185,10 +185,10 @@
     
     <item>
       <title></title>
-      <link>https://yanliangg.github.io/imprint/</link>
+      <link>http://localhost:1313/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yanliangg.github.io/imprint/</guid>
+      <guid>http://localhost:1313/imprint/</guid>
       
         <description>&lt;h1 id=&#34;legal-disclosure&#34;&gt;Legal Disclosure&lt;/h1&gt;
 &lt;p&gt;Information in accordance with the applicable law&lt;/p&gt;
@@ -201,10 +201,10 @@ Germany&lt;/p&gt;</description>
     
     <item>
       <title>Project1</title>
-      <link>https://yanliangg.github.io/portfolio/project1/</link>
+      <link>http://localhost:1313/portfolio/project1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yanliangg.github.io/portfolio/project1/</guid>
+      <guid>http://localhost:1313/portfolio/project1/</guid>
       
         <description>This is proj1</description>
       
@@ -212,10 +212,10 @@ Germany&lt;/p&gt;</description>
     
     <item>
       <title>Project1</title>
-      <link>https://yanliangg.github.io/portfolio/project2/</link>
+      <link>http://localhost:1313/portfolio/project2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yanliangg.github.io/portfolio/project2/</guid>
+      <guid>http://localhost:1313/portfolio/project2/</guid>
       
         <description>This is proj1</description>
       
@@ -223,10 +223,10 @@ Germany&lt;/p&gt;</description>
     
     <item>
       <title>Project1</title>
-      <link>https://yanliangg.github.io/portfolio/project3/</link>
+      <link>http://localhost:1313/portfolio/project3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yanliangg.github.io/portfolio/project3/</guid>
+      <guid>http://localhost:1313/portfolio/project3/</guid>
       
         <description>This is proj1</description>
       
@@ -234,10 +234,10 @@ Germany&lt;/p&gt;</description>
     
     <item>
       <title>Project1</title>
-      <link>https://yanliangg.github.io/projects/project1/</link>
+      <link>http://localhost:1313/projects/project1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yanliangg.github.io/projects/project1/</guid>
+      <guid>http://localhost:1313/projects/project1/</guid>
       
         <description>This is proj1</description>
       
@@ -245,10 +245,10 @@ Germany&lt;/p&gt;</description>
     
     <item>
       <title>Project1</title>
-      <link>https://yanliangg.github.io/projects/project2/</link>
+      <link>http://localhost:1313/projects/project2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yanliangg.github.io/projects/project2/</guid>
+      <guid>http://localhost:1313/projects/project2/</guid>
       
         <description>This is proj1</description>
       
@@ -256,10 +256,10 @@ Germany&lt;/p&gt;</description>
     
     <item>
       <title>Project1</title>
-      <link>https://yanliangg.github.io/projects/project3/</link>
+      <link>http://localhost:1313/projects/project3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yanliangg.github.io/projects/project3/</guid>
+      <guid>http://localhost:1313/projects/project3/</guid>
       
         <description>This is proj1</description>
       
