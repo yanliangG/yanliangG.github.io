@@ -1,5 +1,5 @@
 
-title = "Yanliang"
+title = "Yanliang Gong"
 author = "Yanliang Gong"
 description = "A student in KTH"
 profilePicture = "images/profile2.jpg"
@@ -11,7 +11,7 @@ favicon = "favicons/"
 customCss = []
 # example ["js/custom.js"]
 customJs = [] 
-mainSections = ["/"]
+mainSections = ["portfolio"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
