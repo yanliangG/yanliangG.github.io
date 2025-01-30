@@ -4,11 +4,7 @@ identifier = "home"
 weight = 100
 url = "/portfolio/"
 
-[[main]]
-name = "Posts"
-weight = 200
-identifier = "posts"
-url = "/posts/"
+
 
 
 

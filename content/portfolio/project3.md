@@ -1,11 +1,9 @@
 +++
-title = 'Project1'
+title = 'Project3'
 draft = false
-description = 'This is proj1'
+description = 'This is proj3'
 auther = 'Yanliang Gong'
 
-[params]
-    hidesidebar = true
 +++
 
-This is Project1.
+This is Project3.

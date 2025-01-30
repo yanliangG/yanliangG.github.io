@@ -1,7 +1,11 @@
 
 title = "Yanliang Gong"
 author = "Yanliang Gong"
-description = "A student in KTH"
+description = """
+Hi! 
+I am a first-year master's student 
+in the KTH Interactive Media Technology program.
+"""
 profilePicture = "images/profile2.jpg"
 #copyright = "2020-2021"
 
@@ -61,10 +65,10 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 
 ## Social links
 # use 'fa-brands' when brand icons, use 'fas' when standard solid icons.
-[[socialIcons]]
-icon = "fab fa-linkedin"
-title = "Linkedin"
-url = "https://www.linkedin.com/in/yanliang-gong-091a2a207/"
+# [[socialIcons]]
+#icon = "fab fa-linkedin"
+#title = "Linkedin"
+#url = "https://www.linkedin.com/in/yanliang-gong-091a2a207/"
 
 [[socialIcons]]
 icon = "fas fa-envelope"

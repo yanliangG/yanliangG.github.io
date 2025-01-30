@@ -200,40 +200,7 @@ Germany&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Project1</title>
-      <link>http://localhost:1313/portfolio/project1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/portfolio/project1/</guid>
-      
-        <description>This is proj1</description>
-      
-    </item>
-    
-    <item>
-      <title>Project1</title>
-      <link>http://localhost:1313/portfolio/project2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/portfolio/project2/</guid>
-      
-        <description>This is proj1</description>
-      
-    </item>
-    
-    <item>
-      <title>Project1</title>
-      <link>http://localhost:1313/portfolio/project3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/portfolio/project3/</guid>
-      
-        <description>This is proj1</description>
-      
-    </item>
-    
-    <item>
-      <title>Project1</title>
+      <title>project1</title>
       <link>http://localhost:1313/projects/project1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -245,23 +212,56 @@ Germany&lt;/p&gt;</description>
     
     <item>
       <title>Project1</title>
-      <link>http://localhost:1313/projects/project2/</link>
+      <link>http://localhost:1313/portfolio/project1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/project2/</guid>
+      <guid>http://localhost:1313/portfolio/project1/</guid>
       
         <description>This is proj1</description>
       
     </item>
     
     <item>
-      <title>Project1</title>
+      <title>project2</title>
+      <link>http://localhost:1313/projects/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/project2/</guid>
+      
+        <description>This is proj2</description>
+      
+    </item>
+    
+    <item>
+      <title>Project2</title>
+      <link>http://localhost:1313/portfolio/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/project2/</guid>
+      
+        <description>This is proj2</description>
+      
+    </item>
+    
+    <item>
+      <title>project3</title>
       <link>http://localhost:1313/projects/project3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/project3/</guid>
       
-        <description>This is proj1</description>
+        <description>This is proj3</description>
+      
+    </item>
+    
+    <item>
+      <title>Project3</title>
+      <link>http://localhost:1313/portfolio/project3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/project3/</guid>
+      
+        <description>This is proj3</description>
       
     </item>
     

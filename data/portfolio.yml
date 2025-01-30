@@ -3,35 +3,52 @@ portfolioitems:
   - title: Projects
     #description: 'All my coding projects'
     portfolioitem:
-      - name: Project 1
-        image: '/images/portfolio/code.jpg'
+      - name: Deep Sea Explorer
+        image: '/images/project3/index.jpg'
+        link: /projects/project3/
+        linktext: 'View more'
+        description: 'We developed a video game that enables gesture and head movemenet control in a deep-sea environment.'
+        tags:
+          - Unity
+          - Multimodal Interaction
+        status: 'Finished'
+        start: '11.2024'
+        end: '1.2025'
+        authors:
+          - Keyu Ren
+          - Vlad Prodan
+          - Yuchen Zhai
+      - name: Referential Communication Analysis with ARIA Headset
+        image: '/images/project2/index.jpg'
+        link: /projects/project2/
+        linktext: 'View more'
+        description: 'A study based on ARIA headset explores how the spatial location of objects can influence referring expressions with a focus on hand gestures.'
+        status: 'Finished'
+        tags:
+          - ARIA Headset
+        start: '11.2024'
+        end: '1.2025'
+        authors:
+          - Matilda Lindh
+          - Tianyun Liu
+          - Yiyan He
+          - Yulu Zhang
+      - name: Meal Prepping Helper Prototype
+        image: '/images/project1/index.jpg'
         link: /projects/project1/
         linktext: 'View more'
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
-        tags:
-          - UserStudy
-          - Figma
         status: 'Finished'
+        description: 'We deigned a prototype to support people to prepare their meals and collaborate with others.'
+        tags:
+          - Prototype Design
+          - User Study
         start: '9.2024'
-        end: '11.2024'
+        end: '10.2024'
         authors:
-          - lxndrblz
-          - alexanderdavide
-      - name: Project 2
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
-        status: 'On Hold'
-        tags:
-          - Tag 1
-          - Tag 2
-      - name: Project 3
-        link: https://gohugo.io/
-        status: 'Finished'
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
-        tags:
-          - Tag 1
-          - Tag 2
+          - Benjamin Jansson Mbonyimana
+          - Viktor Hamberg
+          - Dante Sangregorio
+          - Yuchen Zhai
   # portfolio category
   # - title: Research
   #   description: 'All my research projects'

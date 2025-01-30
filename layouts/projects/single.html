@@ -13,9 +13,9 @@
     {{ end }}
     <div class="post__content">
       {{ if (eq .Site.Params.disableTitleCapitalization true) }}
-        <h1>{{ .Title }}</h1>
+        <!-- <h1>{{ .Title }}</h1> -->
       {{ else }}
-        <h1>{{ title .Title }}</h1>
+        <!-- <h1>{{ title .Title }}</h1> -->
       {{ end }}
       {{ if or (eq .Type "post") (eq .Type .Site.Params.postSectionName) }}
         <ul class="post__meta">
@@ -52,7 +52,39 @@
         {{- partial "toc.html" . -}}
       {{- end -}}
 
-      <!-- {{ .Content }} -->
+      <style>
+        mybody {
+            display: flex;
+            justify-content: center;
+            /* align-items: center; */
+            /* height: 100vh; */
+            margin: 0;
+            /* background: linear-gradient(to bottom, #68625c, #e2d1c3); */
+            font-family: Arial, sans-serif;
+        }
+        .mycontainer {
+            width: 50%;
+            background: rgb(45, 43, 43);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            /* text-align: center; */
+        }
+        /* h1 {
+            font-size: 24px;
+        }
+        p {
+            font-size: 16px;
+            color: #333;
+        } */
+      </style>
+
+    <mybody>
+      <div class="mycontainer">
+          
+          {{.Content}}
+      </div>
+    </mybody>
 
       {{- if isset .Params "series" -}}
         {{- partial "series.html" . -}}
